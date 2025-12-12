@@ -57,7 +57,7 @@ CSS
                                         Path between them is empty
                                         King does not pass through check
                                         
-               4. A move is only allowed if it does not leave your own king in check.
+   4. A move is only allowed if it does not leave your own king in check.
 
 
 •	Controls and instructions
