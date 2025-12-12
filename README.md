@@ -35,11 +35,14 @@ CSS
 
 •	Specific contributions of each member to the project
 
-•	Example format: Erika - Documentations
-                  Alken - Code Making
-                  Allyana - Documentations
-                  Andre - Documentations
-                           Video
+• Erika Ambulo - Documentations
+
+  Alken Manila - Game Coding
+  
+  Allyana Espiridion - Documentations
+  
+  Andre Mamangun - Documentations
+                    Video
 
 4.How to Play
 •	Detailed game rules: 
