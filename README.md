@@ -37,7 +37,7 @@ CSS
 
 •	Example format: Erika - Documentations
                   Alken - Code Making
-                  Allyana - Video
+                  Allyana - Documentations
                   Andre - Documentations
                            Video
 
